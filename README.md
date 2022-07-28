@@ -1,4 +1,4 @@
 # Data Secure Client
 
- [datasecureclienr](https://cryptolivedatatracker.netlify.app/).
+ [datasecureclient](https://cryptolivedatatracker.netlify.app/)
 
